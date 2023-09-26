@@ -1,4 +1,4 @@
-# Jeu de Combat de Personnages en C#
+# Character Battle Game in C#
 
 Bienvenue dans le jeu de combat de personnages en C#! Dans ce TP, vous allez créer un jeu simple où le joueur choisit un personnage et affronte un ennemi généré aléatoirement.
 
