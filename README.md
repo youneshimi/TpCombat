@@ -7,7 +7,7 @@ Bienvenue dans le jeu de combat de personnages en C#! Dans ce TP, vous allez cr�
 1. **Cloner le Projet** : Pour commencer, clonez ce projet sur votre machine locale.
 
     ```
-    [https://github.com/youneshimi/TpCombat.git](https://github.com/youneshimi/TpCombat.git)
+    https://github.com/youneshimi/TpCombat.git
     ```
 
 2. **Ouvrir le Projet** : Ouvrez le projet dans votre environnement de développement C# préféré (par exemple, Visual Studio).
